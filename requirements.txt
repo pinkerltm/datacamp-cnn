@@ -1,8 +1,0 @@
-matplotlib
-keras
-#theano
-tensorflow
-jupyter
-notebook
-sklearn
-h5py
